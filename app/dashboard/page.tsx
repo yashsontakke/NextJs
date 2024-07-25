@@ -1,8 +1,8 @@
 import React from 'react'
 
 const page = () => {
-    return (       
-        <main>DashBoard Page</main>
+    return (
+        <div>DashBoard Page</div>
     )
 }
 

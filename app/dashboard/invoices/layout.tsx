@@ -4,7 +4,7 @@ const layout = ({ children }: { children: React.ReactNode }) => {
     return (
         <>
             <h1> Invoice layout</h1>
-            <p>{children}</p>
+            <div>{children}</div>
         </>
     )
 }
